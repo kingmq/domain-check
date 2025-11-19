@@ -4,7 +4,7 @@ compatibility_date = "2025-11-19"
 keep_vars = true
 
 [[kv_namespaces]]
-binding = "domain-check" 
+binding = "DOMAIN_KV" 
 id = "4c09a9ddf8bf481f8cd159b23656f49d" # 替换成你实际的 KV ID
 
 [triggers]
